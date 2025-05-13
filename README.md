@@ -1,7 +1,4 @@
-## Hii!
-
-- ✒️I'm currently working with web design
-- 📚Studying Front End, Back End and Artificial Intelegence
+## Hello!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="AE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
