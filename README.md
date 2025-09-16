@@ -3,17 +3,15 @@
 ## 👋 Hi, i´m Koga!
 - 🎓 Bachelor's Degree in Physics at Federal University of Mato Grosso do Sul
 - 🧪 Researcher in Ion Propulsion
-- 💻 Developer in Python, Flutter and Web
+- 💻 Developer in Node.js, Python and React/VITE
 - 🚀 Passionate about technology, science and education
 
 ### 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEULINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavokoga31@gmail.com)
 
 
