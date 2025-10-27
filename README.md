@@ -1,22 +1,21 @@
-## Hello!
+# Olá! Eu sou o Koga 👋
 
-## 👋 Hi, i´m Koga!
-- 🎓 Bachelor's Degree in Physics at Federal University of Mato Grosso do Sul
-- 🧪 Researcher in Ion Propulsion
-- 💻 Developer in Node.js, Python and React/VITE
-- 🚀 Passionate about technology, science and education
+**Projetos | Softwares | Física**  
 
-### 🛠️ Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Formação e pesquisa:** Graduando em Física (Licenciatura e Bacharelado) pelo INFI – Instituto de Física da UFMS, com atuação em projetos de propulsão iônica, descargas em plasmas, aplicações nucleares (detecção e segurança), mecânica quântica (simulações e fundamentos) e computação quântica (algoritmos variacionais e Qiskit), integrando instrumentação experimental para validação de resultados e reprodutibilidade científica.
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavokoga31@gmail.com)
+---
 
+## ⚙️ Stack principal
+- **Frontend:** React (Vite), TypeScript, MUI/Tailwind  
+- **Backend:** Node.js + Express/Nest.js, MikroORM, PostgreSQL  
 
-  ##
-  
-  <div>
-  <a href="https://www.instagram.com/_gustavokoga_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoKoga&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoga&layout=compact)
+
+---
+
+## Contato
+- E-mail: gustavokoga31@gmail.com
