@@ -12,10 +12,5 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoKoga&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKoga&layout=compact)
-
----
-
 ## Contato
 - E-mail: gustavokoga31@gmail.com
