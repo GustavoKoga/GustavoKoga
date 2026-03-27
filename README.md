@@ -7,7 +7,7 @@
 ---
 
 ## ⚙️ Stack principal
-- **Frontend:** React (Vite), TypeScript, MUI/Tailwind  
+- **Frontend:** React (Vite), TypeScript, Tailwind/CSS
 - **Backend:** Node.js + Express/Nest.js, MikroORM, PostgreSQL  
 
 ---
